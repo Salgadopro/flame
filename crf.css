@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body {
+  background-color: red;
+  padding: 5px;
+  margin: auto;
+}
+header > h1 {
+  text-align: center;
+  font-family: Consolas;
+  color: white;
+}
+header {
+  background-image: linear-gradiente(black,red,white);
+}
+header > nav {
+  background-color: black;
+  border-radius: 30%;
+  padding: 10px;
+  border-top: 15px;
+  text-align: center;
+  color: white;
+  font-family: Consolas;
+  }
+  footer > p {
+    background-image: linear-gradiente(black,red,black);
+    color: white;
+  }
+  
+  
